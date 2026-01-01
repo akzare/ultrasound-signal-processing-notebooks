@@ -15,6 +15,13 @@ This collection is designed for engineers, researchers, and students who want re
 
 ---
 
+## Video Walkthrough (recommended)
+Watch the guided walkthrough before running the notebooks — it explains the pipeline, highlights the key cells to run, and shares practical tips.
+
+Video walkthrough: https://www.youtube.com/watch?v=sFKPW4hDzms
+
+---
+
 ## Contributing and License
 Contributing
 
